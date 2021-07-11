@@ -125,6 +125,10 @@ hr {
     height: 104px;
 }
 
+.course-author {
+    color: #ed6b4f;
+}
+
 .course-info {
     display: flex;
     justify-content: space-between;
